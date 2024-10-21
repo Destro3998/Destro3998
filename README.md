@@ -38,6 +38,7 @@ I'm a senior-year Computer Science student at the University of Saskatchewan wit
 ---
 
 ### 📫 How to Reach Me:
+- **Email**: [jains9089@gmail.com](mailto:jains9089@gmail.com)
 - **LinkedIn**: [Shubham Jain](https://www.linkedin.com/in/shubham-jain-208823126)
 - **GitHub**: [@Destro3998](https://github.com/Destro3998)
 
